@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>new_paulsapp_929fc</Name>
-  <AppVersion>2023-11-15T10:58:29Z</AppVersion>
+  <AppVersion>2023-11-15T16:08:02Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.23105.18.0</CreatedByClientVersion>
   <MinClientVersion>3.23105.18.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.23105.18","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.23105.18","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20231115T160402Z-3.23105.18.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
   <DisplayName>Pauls App</DisplayName>
   <Description xsi:nil="true"></Description>
   <CommitMessage xsi:nil="true"></CommitMessage>
-  <Publisher xsi:nil="true"></Publisher>
+  <Publisher></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{}</ConnectionReferences>
+  <ConnectionReferences>{"20678349-7d9e-41c2-a315-c735b67e7b99":{"id":"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas","displayName":"Dynamics 365 Business Central","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/dynamicssmbsaas/icon.png","dataSources":["vendors (v2.0)"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"BC23,7368d553-0c5c-ee11-8df4-6045bdc89477":{"dataSources":{"vendors (v2.0)":{"tableName":"vendors,v2.0"}}}},"apiTier":"Premium","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>

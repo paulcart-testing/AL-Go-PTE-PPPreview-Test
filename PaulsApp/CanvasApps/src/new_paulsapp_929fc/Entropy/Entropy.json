@@ -3,47 +3,86 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
     "Host": 3,
+    "Image1": 8,
     "Label1": 5,
-    "Screen1": 4
+    "NextArrow1": 11,
+    "Rectangle1": 13,
+    "Screen1": 4,
+    "Separator1": 12,
+    "Subtitle1": 10,
+    "Title1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "11/15/2023 10:58:28",
+  "HeaderLastSavedDateTimeUTC": "11/15/2023 16:08:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "20678349-7d9e-41c2-a315-c735b67e7b99": "\"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas/connections/da9db055ea1c4a498667adbe1534082e\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 1,
+    "vendors (v2.0)": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "label": 0
+    "gallery": 1,
+    "icon": 4,
+    "image": 3,
+    "label": 0,
+    "rectangle": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
     "Host": {},
+    "Image1": {},
     "Label1": {},
-    "Screen1": {}
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
     "Host": 0,
+    "Image1": 4,
     "Label1": 0,
-    "Screen1": 0
+    "NextArrow1": 5,
+    "Rectangle1": 3,
+    "Screen1": 0,
+    "Separator1": 8,
+    "Subtitle1": 7,
+    "Title1": 6
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.023730000000000001,
-    "ControlCount": {}
+    "AnalysisLoadTime": 0.055992300000000002,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.68340310000000004
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

@@ -1,0 +1,40 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas",
+    "CdpRevision": {
+      "BaseUrl": "/v3",
+      "LastChangedTimeString": "2023-10-30T17:41:10.7800000Z",
+      "RevisionNumber": 3
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "balance": "Balance",
+      "blocked": "Blocked",
+      "city": "City",
+      "country": "Country/Region Code",
+      "currencyCode": "Currency Code",
+      "currencyId": "Currency Id",
+      "displayName": "Display Name",
+      "email": "Email",
+      "id": "Id",
+      "irs1099Code": "IRS1099 Code",
+      "lastModifiedDateTime": "Last Modified Date",
+      "number": "No.",
+      "paymentMethodId": "Payment Method Id",
+      "paymentTermsId": "Payment Terms Id",
+      "phoneNumber": "Phone No.",
+      "postalCode": "Postcode",
+      "state": "State",
+      "taxLiable": "VAT Liable",
+      "taxRegistrationNumber": "VAT Registration No.",
+      "website": "Website"
+    },
+    "DatasetName": "BC23,7368d553-0c5c-ee11-8df4-6045bdc89477",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "vendors (v2.0)",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
