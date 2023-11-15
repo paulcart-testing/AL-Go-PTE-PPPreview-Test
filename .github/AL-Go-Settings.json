@@ -3,9 +3,13 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview",
   "powerPlatformSolutionFolder": "PaulsApp",
   "environments": [
-    "bc23sandbox"
+    "bc23sandbox",
+    "staging"
   ],
   "DeployTobc23sandbox": {
     "ppEnvironmentUrl": "https://org8b7226b6.crm11.dynamics.com/"
+  },
+  "DeployTostaging": {
+    "ppEnvironmentUrl": "https://org18379b1e.crm11.dynamics.com/"
   }
 }
