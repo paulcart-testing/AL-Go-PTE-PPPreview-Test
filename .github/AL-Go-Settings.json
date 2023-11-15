@@ -5,7 +5,7 @@
   "environments": [
     "bc23sandbox"
   ],
-  "DeployTo<GitHubEnvironmentName>": {
+  "DeployTobc23sandbox": {
     "ppEnvironmentUrl": "https://make.powerapps.com/environments/Default-c1eeedcb-c374-4adb-8bdb-4ea9c594a049"
   }
 }
