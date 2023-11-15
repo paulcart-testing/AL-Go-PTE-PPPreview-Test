@@ -6,6 +6,6 @@
     "bc23sandbox"
   ],
   "DeployTobc23sandbox": {
-    "ppEnvironmentUrl": "https://make.powerapps.com/environments/Default-c1eeedcb-c374-4adb-8bdb-4ea9c594a049"
+    "ppEnvironmentUrl": "https://org8b7226b6.crm11.dynamics.com/"
   }
 }
