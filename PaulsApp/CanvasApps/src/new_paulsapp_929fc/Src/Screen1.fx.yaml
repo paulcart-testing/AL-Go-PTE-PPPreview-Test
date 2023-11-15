@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Hello World"
+        Text: ="Hello World from GitHub Actions"
         X: =40
         Y: =40
         ZIndex: =1
