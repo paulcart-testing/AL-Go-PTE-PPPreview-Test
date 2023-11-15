@@ -7,9 +7,13 @@
     "staging"
   ],
   "DeployTobc23sandbox": {
+    "environmentName": "BC231",
+    "companyId": "111e9e8a-5177-ee11-817e-6045bdc893e2",
     "ppEnvironmentUrl": "https://org8b7226b6.crm11.dynamics.com/"
   },
   "DeployTostaging": {
+    "environmentName": "BC23",
+    "companyId": "7368d553-0c5c-ee11-8df4-6045bdc89477",
     "ppEnvironmentUrl": "https://org18379b1e.crm11.dynamics.com/"
   }
 }
