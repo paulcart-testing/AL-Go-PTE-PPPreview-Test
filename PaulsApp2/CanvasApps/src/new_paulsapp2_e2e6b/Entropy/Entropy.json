@@ -1,0 +1,88 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
+    "Host": 3,
+    "Image1": 8,
+    "Label1": 5,
+    "NextArrow1": 11,
+    "Rectangle1": 13,
+    "Screen1": 4,
+    "Separator1": 12,
+    "Subtitle1": 10,
+    "Title1": 9
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "11/17/2023 10:12:00",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "f442d422-fb58-4946-9c42-9494c76fe70b": "\"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas/connections/da9db055ea1c4a498667adbe1534082e\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 1,
+    "vendors (v2.0)": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 1,
+    "icon": 4,
+    "image": 3,
+    "label": 0,
+    "rectangle": 2
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
+    "Host": {},
+    "Image1": {},
+    "Label1": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
+    "Host": 0,
+    "Image1": 4,
+    "Label1": 0,
+    "NextArrow1": 5,
+    "Rectangle1": 3,
+    "Screen1": 0,
+    "Separator1": 8,
+    "Subtitle1": 7,
+    "Title1": 6
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.078030799999999997,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.52669290000000002
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
