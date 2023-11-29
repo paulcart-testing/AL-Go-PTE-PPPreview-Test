@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview",
-  "powerPlatformSolutionFolder": "PaulsApp2",
+  "powerPlatformSolutionFolder": "PowerPagesVendorPortal",
   "environments": [
     "bc23sandbox",
     "staging",
