@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="9fbd6e86-c164-4060-ab35-c96b7028e595">
+  <content>{"source":"&lt;!-- Default studio template. Please do not modify --&gt;\r\n&lt;div id=\"mainContent\" class = \"wrapper-body\" role=\"main\"&gt;\r\n    {% include 'Page Copy' %}\r\n&lt;/div&gt;"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Default studio template</name>
+  <powerpagecomponenttype>8</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8d4610a3-3a03-4320-8459-8ed0727a0339</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

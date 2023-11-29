@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="8d4610a3-3a03-4320-8459-8ed0727a0339">
+    <content>{"defaultlanguage":"a9e1d4c2-c240-4843-b608-bfb304842c90","footerwebtemplateid":"e5e74770-a504-4a48-9dd5-771a67cd758d","headerwebtemplateid":"258a7865-21a7-44c4-a168-0cdf48303b00","website_language":1033}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>Vendor Portal - vendorportal-paulc</name>
+    <primarydomainname>vendorportal-paulc.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

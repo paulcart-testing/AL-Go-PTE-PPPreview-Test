@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="4de2ce76-2bfd-4db5-a40a-698c080d1575">
+  <content>{"value":"true"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/Registration/InvitationEnabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>8d4610a3-3a03-4320-8459-8ed0727a0339</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
