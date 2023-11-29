@@ -4,8 +4,14 @@
   "powerPlatformSolutionFolder": "PaulsApp2",
   "environments": [
     "bc23sandbox",
-    "staging"
+    "staging",
+    "bcvirtualtables"
   ],
+  "DeployTobcvirtualtables": {
+    "environmentName": "BC231",
+    "companyId": "111e9e8a-5177-ee11-817e-6045bdc893e2",
+    "ppEnvironmentUrl": "https://org8b7226b6.crm11.dynamics.com/"
+  },
   "DeployTobc23sandbox": {
     "environmentName": "BC231",
     "companyId": "111e9e8a-5177-ee11-817e-6045bdc893e2",
